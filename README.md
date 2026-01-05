@@ -1,3 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Sunidhi037&label=Profile%20views&color=brightgreen&style=flat)
+
+
+
+
+
 # Hi, I'm Sunidhi Singh 👋  
 
 ### Full-Stack Developer | AI & Data Science Enthusiast  
