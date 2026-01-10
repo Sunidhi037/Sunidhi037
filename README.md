@@ -81,7 +81,11 @@ Its unique feature is the gamified integration of ancient scriptures to help Gen
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sunidhi037&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunidhi037&layout=compact&langs_count=6&theme=dark)
+![Top Languages](<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunidhi037&theme=github_dark" height="170"/>)
+
+
+
+
 
 
 
