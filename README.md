@@ -4,9 +4,14 @@
 
 
 
+<div align="center">
+  
 # Hi, I'm Sunidhi Singh 👋  
 
-### Full-Stack Developer | AI & Data Science Enthusiast  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FFAB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Open+Source+Learner)](https://git.io/typing-svg)
+
+</div>
+
 
 I am a Computer Science student passionate about building impactful tech projects.  
 Currently focused on strengthening my foundations in **Full Stack Development, DSA, and Data Science** through hands-on projects and hackathons.
@@ -16,13 +21,6 @@ Currently focused on strengthening my foundations in **Full Stack Development, D
 - 💼 LinkedIn: https://www.linkedin.com/in/sunidhi-cryptivoxe
 - 📧 Email: sunidhi9826@gmail.com
 
-<img 
-  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" 
-  align="right" 
-  width="250"
-/>
-
-<br clear="right"/>
 
 ## About Me
 - 🎓 CSE Undergraduate  
