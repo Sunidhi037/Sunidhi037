@@ -77,15 +77,26 @@ Its unique feature is the gamified integration of ancient scriptures to help Gen
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Sunidhi037&theme=dark&hide_border=true)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunidhi037&theme=github_dark" height="170"/>
+<table>
+<tr>
+<td width="50%">
 
+<img src="https://streak-stats.demolab.com?user=Sunidhi037&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi037&theme=react-dark&hide_border=true"/>
+<br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sunidhi037&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunidhi037&theme=github_dark"/>
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi037&theme=react-dark&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 
 
