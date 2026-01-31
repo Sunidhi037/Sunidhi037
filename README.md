@@ -87,6 +87,7 @@ Its unique feature is the gamified integration of ancient scriptures to help Gen
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunidhi037&theme=react-dark&hide_border=true"/>
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunidhi037&theme=github_dark"/>
 
 
 
